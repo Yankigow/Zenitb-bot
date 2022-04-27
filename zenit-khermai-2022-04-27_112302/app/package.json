@@ -1,0 +1,32 @@
+{
+  "name": "xen",
+  "version": "0.0.1",
+  "description": "xen",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "quick.db": "^7.1.2",
+    "moment": "^2.29.1",
+    "express": "^4.17.1",
+    "moment-duration-format": "^2.3.2",
+    "useful-tools": "^0.2.6",
+    "random-animals": "^1.0.3",
+    "random-animal.js": "^1.0.3",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "pixelien",
+    "crotus"
+  ]
+}
